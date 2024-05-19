@@ -39,3 +39,10 @@
     height: 35px;
     cursor: pointer;
 }
+.detail{
+    display: flex;
+    justify-content: space-between;
+}
+.weather-icon{
+    width: 50px;
+}
